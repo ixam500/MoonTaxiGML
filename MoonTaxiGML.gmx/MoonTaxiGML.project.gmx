@@ -5,9 +5,26 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound"/>
-  <sprites name="sprites"/>
-  <backgrounds name="background"/>
+  <sprites name="sprites">
+    <sprite>sprites\spr_taxi</sprite>
+    <sprite>sprites\spr_block</sprite>
+    <sprite>sprites\spr_person</sprite>
+    <sprite>sprites\spr_title</sprite>
+  </sprites>
+  <backgrounds name="background">
+    <background>background\bkg_mainmenu</background>
+  </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_title</object>
+    <object>objects\obj_block</object>
+    <object>objects\obj_person</object>
+    <object>objects\obj_taxi</object>
+  </objects>
+  <rooms name="rooms">
+    <room>rooms\rom_mainMenu</room>
+    <room>rooms\rom_l1</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
