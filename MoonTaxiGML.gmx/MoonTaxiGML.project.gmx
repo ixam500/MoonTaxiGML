@@ -10,6 +10,11 @@
     <sprite>sprites\spr_block</sprite>
     <sprite>sprites\spr_person</sprite>
     <sprite>sprites\spr_title</sprite>
+    <sprite>sprites\spr_lives</sprite>
+    <sprite>sprites\spr_flag</sprite>
+    <sprite>sprites\spr_chev</sprite>
+    <sprite>sprites\spr_objective1in</sprite>
+    <sprite>sprites\spr_objective1out</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_mainmenu</background>
@@ -20,6 +25,10 @@
     <object>objects\obj_block</object>
     <object>objects\obj_person</object>
     <object>objects\obj_taxi</object>
+    <object>objects\obj_draw</object>
+    <object>objects\obj_flag</object>
+    <object>objects\obj_chevron</object>
+    <object>objects\obj_objective1</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_mainMenu</room>
