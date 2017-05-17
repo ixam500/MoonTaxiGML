@@ -15,6 +15,10 @@
     <sprite>sprites\spr_chev</sprite>
     <sprite>sprites\spr_objective1in</sprite>
     <sprite>sprites\spr_objective1out</sprite>
+    <sprite>sprites\spr_menubg</sprite>
+    <sprite>sprites\spr_save</sprite>
+    <sprite>sprites\spr_load</sprite>
+    <sprite>sprites\spr_1up</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bkg_mainmenu</background>
@@ -29,6 +33,10 @@
     <object>objects\obj_flag</object>
     <object>objects\obj_chevron</object>
     <object>objects\obj_objective1</object>
+    <object>objects\obj_menubg</object>
+    <object>objects\obj_save</object>
+    <object>objects\obj_load</object>
+    <object>objects\obj_1up</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\rom_mainMenu</room>
